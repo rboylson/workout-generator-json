@@ -2,7 +2,7 @@
   "workouts": [
     {
       "id": "1",
-      "name": "Bicep Curls",
+      "name": "Bicep curls",
       "type": "Exercise",
       "target": "Arms",
       "timing": "10x"
@@ -16,7 +16,7 @@
     },
     {
       "id": "4",
-      "name": "Doorjam Shoulder Stretch",
+      "name": "Doorjamb shoulder stretch",
       "type": "Stretch",
       "target": "Arms",
       "timing": "30s"
@@ -37,7 +37,7 @@
     },
     {
       "id": "8",
-      "name": "Flutter Kicks",
+      "name": "Flutter kicks",
       "type": "Exercise",
       "target": "Core, Legs",
       "timing": "30x"
@@ -51,7 +51,7 @@
     },
     {
       "id": "2",
-      "name": "Tricep Extensions",
+      "name": "Tricep extensions",
       "type": "Exercise",
       "target": "Arms",
       "timing": "15x"
@@ -72,28 +72,28 @@
     },
     {
       "id": "14",
-      "name": "Cobra Stretch",
+      "name": "Cobra stretch",
       "type": "Stretch",
       "target": "Core",
       "timing": "50s"
     },
     {
       "id": "3",
-      "name": "Shoulder Press",
+      "name": "Shoulder press",
       "type": "Exercise",
       "target": "Arms",
       "timing": "8x"
     },
     {
       "id": "13",
-      "name": "Calf Stretch",
+      "name": "Calf stretch",
       "type": "Stretch",
       "target": "Legs",
       "timing": "30s"
     },
     {
       "id": "4",
-      "name": "Crossbody Deltoid Stretch",
+      "name": "Crossbody deltoid stretch",
       "type": "Stretch",
       "target": "Arms",
       "timing": "40s"

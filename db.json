@@ -8,18 +8,11 @@
       "timing": "10x"
     },
     {
-      "id": "2",
-      "name": "Tricep Extensions",
-      "type": "Exercise",
-      "target": "Arms",
-      "timing": "15x"
-    },
-    {
-      "id": "3",
-      "name": "Shoulder Press",
-      "type": "Exercise",
-      "target": "Arms",
-      "timing": "8x"
+      "id": "14",
+      "name": "Lunge",
+      "type": "Stretch",
+      "target": "Legs",
+      "timing": "30s"
     },
     {
       "id": "4",
@@ -29,24 +22,10 @@
       "timing": "30s"
     },
     {
-      "id": "4",
-      "name": "Crossbody Deltoid Stretch",
-      "type": "Stretch",
-      "target": "Arms",
-      "timing": "40s"
-    },
-    {
       "id": "5",
       "name": "Squat",
       "type": "Exercise",
-      "target": "Legs, Core",
-      "timing": "20x"
-    },
-    {
-      "id": "6",
-      "name": "Knee kicks",
-      "type": "Exercise",
-      "target": "Legs, Core",
+      "target": "Core, Legs",
       "timing": "20x"
     },
     {
@@ -69,7 +48,14 @@
       "type": "Exercise",
       "target": "Arms, Core",
       "timing": "8x"
-    },  
+    },
+    {
+      "id": "2",
+      "name": "Tricep Extensions",
+      "type": "Exercise",
+      "target": "Arms",
+      "timing": "15x"
+    },
     {
       "id": "11",
       "name": "Planks",
@@ -92,6 +78,13 @@
       "timing": "50s"
     },
     {
+      "id": "3",
+      "name": "Shoulder Press",
+      "type": "Exercise",
+      "target": "Arms",
+      "timing": "8x"
+    },
+    {
       "id": "13",
       "name": "Calf Stretch",
       "type": "Stretch",
@@ -99,11 +92,18 @@
       "timing": "30s"
     },
     {
-      "id": "14",
-      "name": "Lunge",
+      "id": "4",
+      "name": "Crossbody Deltoid Stretch",
       "type": "Stretch",
-      "target": "Legs",
-      "timing": "30s"
+      "target": "Arms",
+      "timing": "40s"
+    },
+    {
+      "id": "6",
+      "name": "Knee kicks",
+      "type": "Exercise",
+      "target": "Core, Legs",
+      "timing": "20x"
     }
   ],
   "types": [

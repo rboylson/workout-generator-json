@@ -1,11 +1,109 @@
 {
   "workouts": [
     {
-      "id": "YHH8rvc",
-      "name": "Weight behind head",
+      "id": "1",
+      "name": "Bicep Curls",
       "type": "Exercise",
       "target": "Arms",
       "timing": "10x"
+    },
+    {
+      "id": "2",
+      "name": "Tricep Extensions",
+      "type": "Exercise",
+      "target": "Arms",
+      "timing": "15x"
+    },
+    {
+      "id": "3",
+      "name": "Shoulder Press",
+      "type": "Exercise",
+      "target": "Arms",
+      "timing": "8x"
+    },
+    {
+      "id": "4",
+      "name": "Doorjam Shoulder Stretch",
+      "type": "Stretch",
+      "target": "Arms",
+      "timing": "30s"
+    },
+    {
+      "id": "4",
+      "name": "Crossbody Deltoid Stretch",
+      "type": "Stretch",
+      "target": "Arms",
+      "timing": "40s"
+    },
+    {
+      "id": "5",
+      "name": "Squat",
+      "type": "Exercise",
+      "target": "Legs, Core",
+      "timing": "20x"
+    },
+    {
+      "id": "6",
+      "name": "Knee kicks",
+      "type": "Exercise",
+      "target": "Legs, Core",
+      "timing": "20x"
+    },
+    {
+      "id": "7",
+      "name": "Froggers",
+      "type": "Exercise",
+      "target": "Legs",
+      "timing": "10x"
+    },
+    {
+      "id": "8",
+      "name": "Flutter Kicks",
+      "type": "Exercise",
+      "target": "Core, Legs",
+      "timing": "30x"
+    },
+    {
+      "id": "9",
+      "name": "Sit-ups",
+      "type": "Exercise",
+      "target": "Arms, Core",
+      "timing": "8x"
+    },  
+    {
+      "id": "11",
+      "name": "Planks",
+      "type": "Exercise",
+      "target": "Arms, Core",
+      "timing": "40s"
+    },
+    {
+      "id": "13",
+      "name": "Superman",
+      "type": "Stretch",
+      "target": "Arms, Core, Legs",
+      "timing": "15s"
+    },
+    {
+      "id": "14",
+      "name": "Cobra Stretch",
+      "type": "Stretch",
+      "target": "Core",
+      "timing": "50s"
+    },
+    {
+      "id": "13",
+      "name": "Calf Stretch",
+      "type": "Stretch",
+      "target": "Legs",
+      "timing": "30s"
+    },
+    {
+      "id": "14",
+      "name": "Lunge",
+      "type": "Stretch",
+      "target": "Legs",
+      "timing": "30s"
     }
   ],
   "types": [
